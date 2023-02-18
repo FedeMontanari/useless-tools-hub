@@ -311,7 +311,11 @@ footer h4 {
 }
 
 a:visited {
-  color: inherit;
+  color: white;
+}
+
+a {
+  color: white;
 }
 
 h4 .bi {
